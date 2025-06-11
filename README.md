@@ -1,29 +1,4 @@
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-  <title>Rocketon by Galaxsys – Free Demo, Review & Bonus</title>
-  <meta name="description" content="Play Rocketon by Galaxsys – a thrilling crash game with real money and demo modes. Blast off now and try your luck at playrocketon.com!" />
-  <meta name="keywords" content="Rocketon, Galaxsys, Rocketon Game, Crash Game, Casino Game, Play Rocketon, Rocketon Demo, Rocketon Bonus" />
-  <meta name="author" content="Galaxsys Games" />
-
-  <!-- Open Graph / Facebook -->
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://playrocketon.com/" />
-  <meta property="og:title" content="Rocketon by Galaxsys – Free Demo, Review & Bonus" />
-  <meta property="og:description" content="Play Rocketon by Galaxsys – a thrilling crash game with real money and demo modes. Blast off now and try your luck at playrocketon.com!" />
-  <meta property="og:image" content="https://playrocketon.com/preview.jpg" />
-
-  <!-- Twitter -->
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:url" content="https://playrocketon.com/" />
-  <meta name="twitter:title" content="Rocketon by Galaxsys – Free Demo, Review & Bonus" />
-  <meta name="twitter:description" content="Play Rocketon by Galaxsys – a thrilling crash game with real money and demo modes. Blast off now and try your luck at playrocketon.com!" />
-  <meta name="twitter:image" content="https://playrocketon.com/preview.jpg" />
-
-  <!-- Favicon -->
  
-</head>
 
 ---
 title: "Rocketon by Galaxsys – Free Demo, Game Review & Bonus"
