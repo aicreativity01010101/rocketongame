@@ -1,12 +1,5 @@
 
 
----
-title: "Rocketon by Galaxsys – Free Demo, Game Review & Bonus"
-description: "Play Rocketon crash game by Galaxsys online. Enjoy free demo mode, real-money gameplay, and exclusive bonuses. Learn more at playrocketon.com!"
-image: "https://playrocketon.com/"
-keywords: "Rocketon, Galaxsys, Rocketon Game, Crash Game, Casino Game, Play Rocketon, Rocketon Demo, Rocketon Bonus"
----
-
 # 🚀 Rocketon by Galaxsys – Free Demo, Game Review & Bonus
 
 Welcome to the official landing page for **Rocketon**, the high-thrill crash game from [Galaxsys](https://www.galaxsys.co) that keeps players on the edge of their seats!
